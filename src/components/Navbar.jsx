@@ -10,31 +10,27 @@ const Navbar = () => {
       </div>
 
       {/* Nav menu */}
-      <div>
-        <ul className='flex'>
-          <li>Home</li>
-          <li>About</li>
-          <li>Skills</li>
-          <li>Work</li>
-          <li>Contact</li>
-        </ul>
-      </div>
+      <ul className='hidden md:flex'>
+        <li>Home</li>
+        <li>About</li>
+        <li>Skills</li>
+        <li>Work</li>
+        <li>Contact</li>
+      </ul>
 
       {/* Hamburger */}
-      <div className='hidden'>
+      <div className='md:hidden'>
         <FaBars />
       </div>
 
       {/* Mobile menu */}
-        <div className='hidden'>
-          <ul>
-            <li>Home</li>
-            <li>About</li>
-            <li>Skills</li>
-            <li>Work</li>
-            <li>Contact</li>
-          </ul>
-        </div>
+      <ul className='hidden'>
+        <li>Home</li>
+        <li>About</li>
+        <li>Skills</li>
+        <li>Work</li>
+        <li>Contact</li>
+      </ul>
 
       {/* Social icons */}
         <div className='hidden'></div>
