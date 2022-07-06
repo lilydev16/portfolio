@@ -26,6 +26,18 @@ const Skills = () => {
             <img className='w-20 mx-auto' src={HTML} alt='HTML icon'/>
             <p className='my-4'>HTML</p>
           </div>
+          <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+            <img className='w-20 mx-auto' src={JavaScript} alt='HTML icon'/>
+            <p className='my-4'>JavaScript</p>
+          </div>
+          <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+            <img className='w-20 mx-auto' src={ReactLogo} alt='HTML icon'/>
+            <p className='my-4'>React</p>
+          </div>
+          <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+            <img className='w-20 mx-auto' src={CSS} alt='HTML icon'/>
+            <p className='my-4'>CSS</p>
+          </div>
         </div>
       </div>
     </div>
