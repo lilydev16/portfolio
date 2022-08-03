@@ -7,7 +7,7 @@
 @layer base {
   body {
     @apply font-[Raleway];
-    @apply bg-[#0A192F]
+    @apply bg-teal-900;
   }
   li {
     @apply px-4;
