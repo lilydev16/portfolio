@@ -52,27 +52,27 @@ const Navbar = () => {
       {/* Mobile menu */}
       <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#0A192F] flex flex-col justify-center items-center'}>
         <li className='py-6 text-4xl'>
-          <Link to='home' smooth={true} offset={50} duration={500}>
+          <Link to='home' smooth={true} offset={50} duration={500} onClick={handleClick}>
             Home
           </Link>
         </li>
         <li className='py-6 text-4xl'>
-          <Link to='about' smooth={true} offset={50} duration={500}>
+          <Link to='about' smooth={true} offset={50} duration={500} onClick={handleClick}>
             About
           </Link>
         </li>
         <li className='py-6 text-4xl'>
-          <Link to='skills' smooth={true} offset={50} duration={500}>
+          <Link to='skills' smooth={true} offset={50} duration={500} onClick={handleClick}>
             Skills
           </Link>
         </li>
         <li className='py-6 text-4xl'>
-          <Link to='work' smooth={true} offset={50} duration={500}>
+          <Link to='work' smooth={true} offset={50} duration={500} onClick={handleClick}>
             Work
           </Link>
         </li>
         <li className='py-6 text-4xl'>
-          <Link to='contact' smooth={true} offset={50} duration={500}>
+          <Link to='contact' smooth={true} offset={50} duration={500} onClick={handleClick}>
             Contact
           </Link>
         </li>
