@@ -17,8 +17,12 @@ const About = () => {
             <p>Hi, I'm Lauralyn, nice to meet you. Please take a look around.</p>
           </div>
           <div>
-            <p>
-              I am passionate about building excellent software that improves the lives of others. I specialize in creating software using JavaScript, React, TypeScript, HTML and CSS.
+            <p> 
+              After a decade of working in customer service in the healthcare industry, 
+              I grew deeply aware of the intersection between user empathy and software.
+              And how the lack of empathy can lead to poor user experiences.
+              I want to change that narrative by collaborating with an innovative and inclusive team that is 
+              passionate about building excellent software that creates a positive impact on our users and society.
             </p>
           </div>
         </div>
