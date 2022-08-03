@@ -1,6 +1,10 @@
 import React from "react";
-import tribe from '../assets/tribe.png';
-import rancid from '../assets/rancid.png';
+import tribe from '../assets/Tribe.png';
+import rancid from '../assets/RancidTomatillos.png';
+import ama from '../assets/AMA_Bot.png';
+import nyt from '../assets/NYT.png';
+import portfolio from '../assets/Portfolio.png';
+import recipeco from '../assets/Recipeco.png';
 
 const Work = () => {
   return(
@@ -17,7 +21,7 @@ const Work = () => {
           
           {/* Card/Grid item */}
           <div
-            style={{ backgroundImage: `url(${tribe})` }}
+            style={{ backgroundImage: `url(${recipeco})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           > 
             {/* Hover effects */}
@@ -38,7 +42,7 @@ const Work = () => {
           
           {/* Grid item */}
           <div
-            style={{ backgroundImage: `url(${rancid})` }}
+            style={{ backgroundImage: `url(${tribe})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           > 
             {/* Hover effects */}
@@ -59,7 +63,7 @@ const Work = () => {
         
           {/* Grid item */}
           <div
-            style={{ backgroundImage: `url(${tribe})` }}
+            style={{ backgroundImage: `url(${nyt})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           > 
             {/* Hover effects */}
@@ -80,7 +84,7 @@ const Work = () => {
 
           {/* Grid item */}
           <div
-            style={{ backgroundImage: `url(${tribe})` }}
+            style={{ backgroundImage: `url(${ama})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           > 
             {/* Hover effects */}
@@ -101,7 +105,7 @@ const Work = () => {
 
           {/* Grid item */}
           <div
-            style={{ backgroundImage: `url(${tribe})` }}
+            style={{ backgroundImage: `url(${rancid})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           > 
             {/* Hover effects */}
@@ -122,7 +126,7 @@ const Work = () => {
 
           {/* Grid item */}
           <div
-            style={{ backgroundImage: `url(${tribe})` }}
+            style={{ backgroundImage: `url(${portfolio})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           > 
             {/* Hover effects */}
