@@ -21,19 +21,19 @@ const Work = () => {
           
           {/* Card/Grid item */}
           <div
-            style={{ backgroundImage: `url(${recipeco})` }}
+            style={{ backgroundImage: `url(${nyt})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           > 
             {/* Hover effects */}
             <div className='opacity-0 group-hover:opacity-100'> 
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                NYT
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='http://nyt-psi.vercel.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/lswatson16/nyt'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
@@ -48,13 +48,13 @@ const Work = () => {
             {/* Hover effects */}
             <div className='opacity-0 group-hover:opacity-100'> 
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Tribe
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://fe-tribe.herokuapp.com/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/Tribe-Turing/fe_tribe'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
@@ -63,40 +63,19 @@ const Work = () => {
         
           {/* Grid item */}
           <div
-            style={{ backgroundImage: `url(${nyt})` }}
+            style={{ backgroundImage: `url(${recipeco})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           > 
             {/* Hover effects */}
             <div className='opacity-0 group-hover:opacity-100'> 
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Recip-Eco
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://recip-eco.herokuapp.com/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
-                </a>
-              </div>
-            </div>
-          </div>
-
-          {/* Grid item */}
-          <div
-            style={{ backgroundImage: `url(${ama})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
-          > 
-            {/* Hover effects */}
-            <div className='opacity-0 group-hover:opacity-100'> 
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
-              </span>
-              <div className='pt-8 text-center'>
-                <a href='/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                </a>
-                <a href='/'>
+                <a href='https://github.com/lswatson16/stretch-tech'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
@@ -111,13 +90,34 @@ const Work = () => {
             {/* Hover effects */}
             <div className='opacity-0 group-hover:opacity-100'> 
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Rancid Tomatillos
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://gaping-hammer.surge.sh/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/lswatson16/Rancid_Tomatillos'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          {/* Grid item */}
+          <div
+            style={{ backgroundImage: `url(${ama})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+          > 
+            {/* Hover effects */}
+            <div className='opacity-0 group-hover:opacity-100'> 
+              <span className='text-2xl font-bold text-white tracking-wider'>
+                AMA AI
+              </span>
+              <div className='pt-8 text-center'>
+                <a href='https://fun-with-ai-rho.vercel.app/'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                </a>
+                <a href='https://github.com/lswatson16/ama_ai'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
@@ -132,13 +132,13 @@ const Work = () => {
             {/* Hover effects */}
             <div className='opacity-0 group-hover:opacity-100'> 
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Personal Portfolio
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://portfolio-lswatson16.vercel.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/lswatson16/portfolio'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
