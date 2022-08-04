@@ -1,6 +1,6 @@
 import React from "react";
 import ama from '../assets/AMA_Bot.png';
-import tribe from '../assets/Tribe.png';
+import tribe from '../assets/tribe.png';
 import rancid from '../assets/RancidTomatillos.png';
 import nyt from '../assets/NYTimes.png';
 import portfolio from '../assets/Portfolio.png';
