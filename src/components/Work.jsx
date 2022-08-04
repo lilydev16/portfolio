@@ -1,6 +1,6 @@
 import React from "react";
 import ama from '../assets/AMA_Bot.png';
-import tribe from '../assets/Tribe.png';
+// import tribe from '../assets/Tribe.png';
 import rancid from '../assets/RancidTomatillos.png';
 import nyt from '../assets/NYT.png';
 import portfolio from '../assets/Portfolio.png';
@@ -41,12 +41,12 @@ const Work = () => {
           </div>
           
           {/* Grid item */}
-          <div
+          {/* <div
             style={{ backgroundImage: `url(${tribe})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
-          > 
+          > */}
             {/* Hover effects */}
-            <div className='opacity-0 group-hover:opacity-100'> 
+            {/* <div className='opacity-0 group-hover:opacity-100'> 
               <span className='text-2xl font-bold text-white tracking-wider'>
                 Tribe
               </span>
@@ -59,7 +59,7 @@ const Work = () => {
                 </a>
               </div>
             </div>
-          </div>
+          </div> */}
         
           {/* Grid item */}
           <div
