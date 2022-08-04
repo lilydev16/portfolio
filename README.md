@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Portfolio
+# Overview
+Hi, my name is Lauralyn Watson. I'm a software engineer specialized in frontend web development. I'm a career changer with a non-technical background and bootcamp graduate from an accredited 7-month program at [Turing School of Software & Design](https://turing.edu/). 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I created this [portfolio](https://portfolio-lswatson16.vercel.app/) to highlight my journey into tech, my recent projects, skills and ways to connect with me. Feel free to check out my [portfolio](https://portfolio-lswatson16.vercel.app/) and leave a comment/feedback, or schedule time to chat and collaborate with me.
 
-## Available Scripts
+# Deployment
+This application is hosted on [Vercel](https://www.vercel.com/). Please use this deploy link to skip installation and view the application: [Portfolio](https://portfolio-lswatson16.vercel.app/).
 
-In the project directory, you can run:
+# Installation
 
-### `npm start`
+1. In your terminal, clone the repo
+   ```sh
+   git clone git@github.com:lswatson16/portfolio.git
+   ```
+2. cd into the root directory
+    ```sh
+   cd portfolio
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Start the server to see the application in the browser
+   ```sh
+   npm start
+   ``` 
+   - Runs the app in the development mode.
+   - Open http://localhost:3000 to view it in the browser.
+   - The page will reload if you make edits.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Technologies
+- React
+- Tailwind CSS
+- JavaScript
+- HTML
+- CSS
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Contributors
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Lauralyn Watson
+- [GitHub](https://github.com/lswatson16)
+- [LinkedIn](https://www.linkedin.com/in/lauralyn-watson/)
+- [Turing Alumni Portfolio](https://terminal.turing.edu/profiles/1340)
+# Credits
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Inspired by [Clint Briley](https://github.com/fireclint)
+- [Vercel](https://www.vercel.com/)
+- [Favicon generator](https://realfavicongenerator.net/#)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [GetForm.io](https://getform.io/)
+- [React scroll](https://www.npmjs.com/package/react-scroll)
