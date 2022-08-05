@@ -19,10 +19,10 @@ const About = () => {
           <div>
             <p> 
               After a decade of working in customer service in the healthcare industry, 
-              I grew deeply aware of the intersection between user empathy and software.
-              And how the lack of empathy can lead to poor user experiences.
-              I want to change that narrative by collaborating with an innovative and inclusive team that is 
-              passionate about building excellent software that creates a positive impact on our users and society.
+              I grew deeply aware of the intersection between user empathy and software;
+              and how the lack of empathy can lead to poor user experiences.
+              I want to change that narrative by collaborating with an innovative and inclusive team 
+              passionate about building excellent software that positively impacts our users and society.
             </p>
           </div>
         </div>
