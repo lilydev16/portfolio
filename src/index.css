@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800;900&display=swap");
 
 @layer base {
   body {
@@ -27,7 +27,7 @@
 .content-div:hover {
   background-image: linear-gradient(
     to right,
-    rgba(152, 245, 225, 0.8),
-    hsla(157, 73%, 47%, 0.8)
-  )!important;
+    rgba(209, 152, 245, 0.8),
+    hsla(312, 73%, 47%, 0.8)
+  ) !important;
 }
