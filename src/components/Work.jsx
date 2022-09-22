@@ -29,6 +29,9 @@ const Work = () => {
               <span className='text-2xl font-bold text-white tracking-wider'>
                 NYT
               </span>
+              <span className='text-1xl font-bold text-white tracking-wider block'>
+                React, JavaScript, HTML, CSS
+              </span>
               <div className='pt-8 text-center'>
                 <a href='http://nyt-psi.vercel.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
@@ -49,6 +52,9 @@ const Work = () => {
             <div className='opacity-0 group-hover:opacity-100'> 
               <span className='text-2xl font-bold text-white tracking-wider'>
                 Tribe
+              </span>
+              <span className='text-1xl font-bold text-white tracking-wider block'>
+                React, Ruby/Rails, Websockets
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://fe-tribe.herokuapp.com/'>
@@ -71,6 +77,9 @@ const Work = () => {
               <span className='text-2xl font-bold text-white tracking-wider'>
                 Recip-Eco
               </span>
+              <span className='text-1xl font-bold text-white tracking-wider block'>
+                TypeScript, React, Cypress (E2E)
+              </span>
               <div className='pt-8 text-center'>
                 <a href='https://recip-eco.herokuapp.com/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
@@ -91,6 +100,9 @@ const Work = () => {
             <div className='opacity-0 group-hover:opacity-100'> 
               <span className='text-2xl font-bold text-white tracking-wider'>
                 Rancid Tomatillos
+              </span>
+              <span className='text-1xl font-bold text-white tracking-wider block'>
+                React, JavaScript, E2E Testing
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://rancid-tomatillos-blue.vercel.app/'>
@@ -113,6 +125,9 @@ const Work = () => {
               <span className='text-2xl font-bold text-white tracking-wider'>
                 AMA AI
               </span>
+              <span className='text-1xl font-bold text-white tracking-wider block'>
+                React, Tailwind CSS
+              </span>
               <div className='pt-8 text-center'>
                 <a href='https://fun-with-ai-rho.vercel.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
@@ -133,6 +148,9 @@ const Work = () => {
             <div className='opacity-0 group-hover:opacity-100'> 
               <span className='text-2xl font-bold text-white tracking-wider'>
                 Personal Portfolio
+              </span>
+              <span className='text-1xl font-bold text-white tracking-wider block'>
+                React, Tailwind CSS
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://portfolio-lswatson16.vercel.app/'>
